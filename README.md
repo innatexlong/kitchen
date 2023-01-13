@@ -1,2 +1,2 @@
-# kitchen-fabric
+# kitchen-forge
 A mod for kitchen
