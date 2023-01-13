@@ -1,0 +1,13 @@
+
+package net.mcreator.kitchen.item;
+
+import net.minecraft.world.item.Rarity;
+import net.minecraft.world.item.Item;
+
+import net.mcreator.kitchen.init.KitchenModTabs;
+
+public class UnhuskedriceItem extends Item {
+	public UnhuskedriceItem() {
+		super(new Item.Properties().tab(KitchenModTabs.TAB_KITCHENITEMS).stacksTo(64).rarity(Rarity.COMMON));
+	}
+}

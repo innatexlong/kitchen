@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "kitchen:abowlofcookedrice"
+    },
+    "title": {
+      "translate": "advancements.makerice.title"
+    },
+    "description": {
+      "translate": "advancements.makerice.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "makerice": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "kitchen:rawmooncakes"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 7
+  },
+  "parent": "kitchen:harvestrice"
+}

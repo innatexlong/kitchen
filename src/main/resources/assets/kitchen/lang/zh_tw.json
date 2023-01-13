@@ -1,0 +1,23 @@
+{
+  "itemGroup.tabkitchenblocks": "Kitchen - 方塊",
+  "item.kitchen.wheatflour": "麵粉",
+  "item.kitchen.rawmooncakes": "Raw Mooncakes",
+  "advancements.makerice.title": "Make Rice",
+  "item.kitchen.dough": "麵團",
+  "block.kitchen.frypan": "煎鍋",
+  "item.kitchen.abowlofcookedrice": "一碗熟米飯",
+  "itemGroup.tabkitchenitems": "Kitchen- 物品",
+  "item.kitchen.alcohol": "酒",
+  "advancements.makerice.descr": "M",
+  "item.kitchen.mooncakes": "Mooncakes",
+  "item.kitchen.dumpling": "Dumpling",
+  "item.kitchen.red_date_bun": "Red Date Bun",
+  "item.kitchen.unhuskedrice": "Unhusked Rice",
+  "advancements.harvestrice.title": "Harvest Rice",
+  "item.kitchen.reed_leave": "Reed Leave",
+  "block.kitchen.riceplant": "Riceplant",
+  "item.kitchen.red_date": "Red Date",
+  "block.kitchen.riceplant_4": "Riceplant 4",
+  "advancements.harvestrice.descr": "This ",
+  "block.kitchen.steamer": "Steamer"
+}

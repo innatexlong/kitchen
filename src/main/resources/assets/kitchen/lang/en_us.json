@@ -1,0 +1,23 @@
+{
+  "itemGroup.tabkitchenblocks": "Kitchen - Blocks",
+  "item.kitchen.wheatflour": "Wheat Flour",
+  "item.kitchen.rawmooncakes": "Raw Mooncakes",
+  "advancements.makerice.title": "Make Rice",
+  "item.kitchen.dough": "Dough",
+  "block.kitchen.frypan": "Frypan",
+  "item.kitchen.abowlofcookedrice": "A bowl of cooked rice",
+  "itemGroup.tabkitchenitems": "Kitchenitems",
+  "item.kitchen.alcohol": "Alcohol",
+  "advancements.makerice.descr": "M",
+  "item.kitchen.mooncakes": "Mooncakes",
+  "item.kitchen.dumpling": "Dumpling",
+  "item.kitchen.red_date_bun": "Red Date Bun",
+  "item.kitchen.unhuskedrice": "Unhusked Rice",
+  "advancements.harvestrice.title": "Harvest Rice",
+  "item.kitchen.reed_leave": "Reed Leave",
+  "block.kitchen.riceplant": "Riceplant",
+  "item.kitchen.red_date": "Red Date",
+  "block.kitchen.riceplant_4": "Riceplant 4",
+  "advancements.harvestrice.descr": "E",
+  "block.kitchen.steamer": "Steamer"
+}

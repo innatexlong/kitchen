@@ -1,0 +1,23 @@
+{
+  "itemGroup.tabkitchenblocks": "Kitchen - 方块",
+  "item.kitchen.wheatflour": "面粉",
+  "item.kitchen.rawmooncakes": "生月饼",
+  "advancements.makerice.title": "蒸米饭",
+  "item.kitchen.dough": "面团",
+  "block.kitchen.frypan": "煎锅",
+  "item.kitchen.abowlofcookedrice": "一碗熟米饭",
+  "itemGroup.tabkitchenitems": "Kitchen - 物品",
+  "item.kitchen.alcohol": "酒",
+  "advancements.makerice.descr": "香喷喷的",
+  "item.kitchen.mooncakes": "月饼",
+  "item.kitchen.dumpling": "饺子",
+  "item.kitchen.red_date_bun": "Red Date Bun",
+  "item.kitchen.unhuskedrice": "稻子",
+  "advancements.harvestrice.title": "收货米饭",
+  "item.kitchen.reed_leave": "Reed Leave",
+  "block.kitchen.riceplant": "Riceplant",
+  "item.kitchen.red_date": "Red Date",
+  "block.kitchen.riceplant_4": "Riceplant 4",
+  "advancements.harvestrice.descr": "今年大丰收啦",
+  "block.kitchen.steamer": "蒸锅"
+}
